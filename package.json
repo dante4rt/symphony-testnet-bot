@@ -1,7 +1,7 @@
 {
   "name": "symphony-testnet-bot",
   "version": "1.0.0",
-  "description": "A bot for interacting with the Symphony testnet faucet, capable of claiming tokens and scheduling tasks.",
+  "description": "A bot for interacting with the Symphony testnet, capable of claiming tokens, transferring tokens, and staking tokens with support for scheduling tasks.",
   "main": "index.js",
   "type": "module",
   "scripts": {

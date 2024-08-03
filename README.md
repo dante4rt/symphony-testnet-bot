@@ -80,7 +80,7 @@ The **Symphony Testnet Bot** is a script designed to interact with the Symphony 
    - **Run once**: Execute the script a single time.
    - **Run every 24 hours**: Set up a cron job to run the script daily.
 
-### Contributing
+## Contributing
 
 Feel free to fork the repository and make pull requests. For any issues or feature requests, please open an issue in the GitHub repository.
 
@@ -92,10 +92,10 @@ If you would like to support the development of this project, you can make a don
 - **EVM**: `0x960EDa0D16f4D70df60629117ad6e5F1E13B8F44`
 - **BTC**: `bc1p9za9ctgwwvc7amdng8gvrjpwhnhnwaxzj3nfv07szqwrsrudfh6qvvxrj8`
 
-### License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### Support
+## Support
 
 For support and updates, join our [Telegram channel](https://t.me/HappyCuanAirdrop).
