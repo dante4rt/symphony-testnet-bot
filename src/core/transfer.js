@@ -48,7 +48,7 @@ async function executeTransactions(txCount) {
 
   if (choice === '1') {
     const txCount = parseInt(
-      readlineSync.question('How many transactions do you want to send? '),
+      readlineSync.question('How many transactions do you want to send, per account? '),
       10
     );
     console.log('');
@@ -56,7 +56,7 @@ async function executeTransactions(txCount) {
   } else if (choice === '2') {
     const txCount = parseInt(
       readlineSync.question(
-        'How many transactions do you want to send each day? '
+        'How many transactions do you want to send each day, per account? '
       ),
       10
     );
